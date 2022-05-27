@@ -1,4 +1,4 @@
-// d0uble equal : value same 
+// double equal : value same 
 const first = 2;
 const second = "2";
 if (first == second) {
@@ -6,7 +6,7 @@ if (first == second) {
 } else {
     console.log("condition is false");
 }
-// double equal e 1 and true value same
+// double equal :  1 and true value same
 const age = 1;
 const age2 = true;
 if (age == age2) {
@@ -15,7 +15,7 @@ if (age == age2) {
     console.log("condition is not correct");
 }
 
-// double equal e 0 and false value same
+// double equal :  0 and false value same
 const tkPoisa = 0;
 const tkPoisa2 = false;
 if (tkPoisa == tkPoisa2) {
