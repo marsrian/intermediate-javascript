@@ -2,7 +2,7 @@ const nums = [4, 6, 8, 7, 9, 12, 34, 45];
 // Slice Practice:
 // const part = nums.slice(2, 5);
 
-// Splice p[ractice:
+// Splice practice:
 const removed = nums.splice(3, 4, 40);
 
 // console.log(part);
